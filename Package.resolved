@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "colorChanger",
+        "repositoryURL": "https://github.com/julpanucci/colorChanger.git",
+        "state": {
+          "branch": null,
+          "revision": "02beb95034ddb3011f33303415f1fed6d1e21f62",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
